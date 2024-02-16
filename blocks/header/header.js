@@ -1,5 +1,5 @@
 import { getMetadata, decorateIcons, loadBlocks } from '../../scripts/aem.js';
-//test
+
 // media query match that indicates mobile/tablet width
 const isDesktop = window.matchMedia('(min-width: 900px)');
 
